@@ -1,4 +1,8 @@
-# Try it out [here](https://t.me/txTrackBot)
+# eth-address-tracker
+
+Simple to use address tracker on ETH which sends real time updates through telegram when transactions mined involving addresses tracked are detected.
+
+https://t.me/txTrackBot
 
 ## Core functionalities
 * ETH transfers
