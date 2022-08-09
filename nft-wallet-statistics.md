@@ -1,4 +1,8 @@
-# Available to be tested [here](https://discord.gg/rud3PS5pCQ)
+# nft-wallet-statistics
+
+Allow users to view detailed NFT trading statistics for specified address covering both ERC721 & ERC1155 assets.
+
+Available to be tested [here](https://discord.gg/rud3PS5pCQ)
 
 
 ## Step 1: Wallet binding
